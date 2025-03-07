@@ -8,12 +8,6 @@ Features:
 - ✨ Supports OpenRouter, OpenAI and Anthropic API endpoints!
 - 🪄 Has a gorgeous UI, made with flet
 * Installation
-** From ~pip~
-Simply run
-#+BEGIN_SRC
-pip install SeerGPT
-#+END_SRC
-** From Source
 Run the following commands:
 #+BEGIN_SRC
 python3 -m venv .venv
