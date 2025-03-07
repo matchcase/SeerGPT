@@ -1,3 +1,4 @@
+# SeerGPT: AI-powered Tarot Readings 🔮✨
 SeerGPT uses RAG with Reasoning models to generate fun, accurate Tarot Readings!
 
 ![img](./SeerGPT.png)
@@ -9,16 +10,17 @@ Features:
 -   🪄 Has a gorgeous UI, made with flet
 
 
-# Installation
+## Installation
 
 
-## From `pip`
+### From `pip`
 
 Simply run
 
     pip install SeerGPT
 
-## From Source
+
+### From Source
 
 Run the following commands:
 
@@ -27,20 +29,24 @@ Run the following commands:
     python3 -m pip install -r requirements.txt
     python3 main.py
 
-# Usage
+
+## Usage
 
 Upon running the program for the first time, you will be prompted to enter details for your LLM provider.
 Once you fill in these details, you can enter your query, and the program will handle the rest!
 
-# Issues
+
+## Issues
 
 Please open an issue on the [Github page](https://github.com/matchcase/SeerGPT).
 
-# Acknowledgements
+
+## Acknowledgements
 
 The cards have been taken from CC0 scans of the [Rider-Waite Tarot deck](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot) uploaded by luciellaes on their [itch.io page](https://luciellaes.itch.io/rider-waite-smith-tarot-cards-cc0).
 
-# License
+
+## License
 
 This program is licensed under the GNU General Public License v3, © Sarthak Shah 2025.
 
