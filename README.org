@@ -1,6 +1,8 @@
 #+TITLE:SeerGPT: AI-powered Tarot Readings 🔮✨
 SeerGPT uses RAG with Reasoning models to generate fun, accurate Tarot Readings!
+
 [[./SeerGPT.png]]
+
 Features:
 - 🃏 11 unique spreads for different types of questions!
 - ✨ Supports OpenRouter, OpenAI and Anthropic API endpoints!
